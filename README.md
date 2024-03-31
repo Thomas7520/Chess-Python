@@ -9,7 +9,7 @@ Librairies requises :
 - pip Install -U discord.py
 - pip install aspose-words
 - pip install chess
-- pip installsqlite3
+- pip install sqlite3
 
 Lien discord permanent (si besoin) : <https://discord.gg/xtTF5Xma>
 
