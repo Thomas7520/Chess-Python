@@ -2,7 +2,7 @@
 
 Projet de fin de module : Jeu d’échec Discord
 
-![](chess_game.jpeg)
+![](MD_images/chess_game.jpeg)
 
 Librairies requises :
 
@@ -21,11 +21,11 @@ Si vous voulez essayez le bot sur un autre serveur, il faudra alors changer les 
 
 Lancer le bot, l'éteindre, remettre en commentaire puis le relancer afin de synchroniser les commandes sur votre serveur.
 
-![](sync_line.png)
+![](MD_images/sync_line.png)
 
 - Pour lancer le bot, il suffit de run le fichier ChessDiscord.py
 
-![](token_change.png)
+![](MD_images/token_change.png)
 
 *Vous devez mettre le token de votre propre bot.*
 
