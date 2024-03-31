@@ -1,5 +1,7 @@
 Groupe : EchecScolaire
+
 Membres : *Thomas G\*\*\*\*\* / Axel B\*\*\*\*\* / Maxime F\*\*\*\*\* Ch\*\*\*\*\**
+
 Année : Novembre 2024 -> Decembre 2024
 
 Projet de fin de module : Jeu d’échec Discord
