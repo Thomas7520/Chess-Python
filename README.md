@@ -99,7 +99,7 @@ Ce qui a été fait:
 
 3. Je décide de faire soit /mouvements <case> pour afficher les mouvements disponibles d’une pièce ou alors je déplace directement la pièce à l’endroit souhaité en utilisant /deplacer <case\_piece>
 
-<case\_cible>               Exemple : /mouvementsG2
+<case\_cible>               Exemple : /mouvements G2
 
 ![](MD_images/move_command.png)
 
