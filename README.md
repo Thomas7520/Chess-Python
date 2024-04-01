@@ -33,7 +33,7 @@ Lancer le bot, l'éteindre, remettre en commentaire puis le relancer afin de syn
 
 *Vous devez mettre le token de votre propre bot.*
 
-Remarque : hormis les commandes utilisables uniquement en partie, les       commandes /play et /help peuvent être utilisés partout (le /play ne peut pas être utilisé en partie). Si vous souhaitez définir des restrictions, il suffira de le    faire par vous-mêmes dans les paramètres du serveur, intégrations puis ChessIA dans la catégorie commandes.
+Remarque : hormis les commandes utilisables uniquement en partie, les       commandes /play et /help peuvent être utilisés partout (le /play ne peut pas être utilisé en partie). Si vous souhaitez définir des restrictions, il suffira de le faire par vous-mêmes dans les paramètres du serveur, intégrations puis ChessIA dans la catégorie commandes.
 
 Protocolede communication avec le bot
 
@@ -72,7 +72,7 @@ Ce qui a été fait:
 
 -réflexion des algorithmes permettant de prévoir/réaliser les mouvements des pièces (Ex : Pion, Tour,Dame, Fou, Roi, Cavalier)
 
--création de l’image de l’échiquier importer de l’api chess pour générer le fichier SVG puis converti en PNG pour être envoyé sur discord
+-création de l’image de l’échiquier importé de l’api chess pour générer le fichier SVG puis converti en PNG pour être envoyé sur discord
 
 - Création du système de sauvegarde qui permet de relancer une partie au même endroit si le bot est relancé / a crash. Les parties sauvegardées peuvent être utilisés afin d’établir un classement, des statistiques, etc…
 
