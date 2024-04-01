@@ -101,11 +101,11 @@ Ce qui a été fait:
 
 <case\_cible>               Exemple : /mouvements G2
 
-![](MD_images/move_command.png)
+![](MD_images/forsee_command.png)
 
 Exemple : /deplacer G2 G3
 
-![](MD_images/forsee_command.png)
+![](MD_images/move_command.png)
 
 Le bot finit par répondre en jouant à son tour, et ainsi de suite. Si vous souhaitez abandonner la partie, vous pouvez utiliser la commande /abandonner.
 
